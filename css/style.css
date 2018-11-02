@@ -58,7 +58,14 @@ a{
 }
 
 .missiontext{
-  display:flex;
+  display:inline-block;
   background-color: black;
   align-items: center;
+}
+
+/*teaofmonth*/
+
+.teamonth{
+  display: flex;
+
 }
