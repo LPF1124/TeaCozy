@@ -84,10 +84,18 @@ a{
 .TeaMonth img{
   width: 300px;
   height: 200px;
+  margin: 10px 10px 10px 10px;
 }
 
 
+
+
+
 /*Locations*/
+
+h2{
+  text-align: center;
+}
 
 .Locations{
   display: flex;
@@ -95,8 +103,9 @@ a{
   margin: auto;
   height: 500px;
   flex-direction:row;
-  justify-content: center;
   align-items: center;
+  justify-content: center;
+
 }
 
 .downtown{
